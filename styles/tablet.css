@@ -69,6 +69,27 @@
   margin-top: 0px;
 }
 
+.game-type-container {
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-areas:
+    "item1 item2 item3"
+    " item4 item5 item6"
+    " item7 item8 item9 ";
+  padding: 120px 20px;
+}
+.game-type {
+  width: 118%;
+  padding: 0px;
+}
+button {
+  font-size: 10px;
+  font-weight: 600;
+  width: 200px;
+}
+button img {
+  width: 30px;
+}
+
 /* footer section */
 .footer-list1 {
   grid-template-columns: repeat(3, 100px);
