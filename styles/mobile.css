@@ -77,11 +77,10 @@
   margin: 0px auto;
 }
 
+/* instant play section */
 .play-instantly-container {
   flex-direction: column;
 }
-
-/* instant play section */
 .play-instantly-content,
 .play-instantly-image {
   width: 100%;
@@ -97,4 +96,22 @@
 }
 .play-img {
   margin-top: 0px;
+}
+.footer-list1 {
+  grid-template-columns: repeat(3, 100px);
+}
+.footer-list2 {
+  grid-template-columns: repeat(3, 60px);
+  row-gap: 40px;
+  text-align: center;
+}
+.footer-list3 {
+  grid-template-columns: repeat(2, 190px);
+  row-gap: 40px;
+}
+.footer-section {
+  width: 100vh;
+}
+.footer-logo-section {
+  width: fit-content;
 }

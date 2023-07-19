@@ -68,3 +68,25 @@
 .play-img {
   margin-top: 0px;
 }
+
+/* footer section */
+.footer-list1 {
+  grid-template-columns: repeat(3, 100px);
+}
+.footer-list2 {
+  grid-template-columns: repeat(3, 60px);
+  row-gap: 40px;
+  text-align: center;
+}
+.footer-list3 {
+  grid-template-columns: repeat(2, 190px);
+  row-gap: 40px;
+}
+.footer-section {
+  /* width: 100v; */
+  /* width: 100%; */
+  width: 118%;
+}
+.footer-logo-section {
+  width: fit-content;
+}
