@@ -62,9 +62,16 @@
 
 /* funny video section */
 .funny-video-section {
-  margin: 0px;
+  margin-left: 50px;
+  width: 100%;
+  margin-top: 50px;
 }
 .funny-video-section-card-container {
+  align-items: center;
+}
+.funny-video-card {
+  width: 90%;
+  text-align: center;
 }
 .funny-video-section-heading {
   margin: 0px auto;

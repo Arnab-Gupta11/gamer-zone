@@ -1,6 +1,7 @@
 /* nav style */
 .nav-section-container,
-.menu-section-container {
+.menu-section-container,
+.funny-video-section-card-container {
   flex-direction: column;
 }
 .menu-section-container,
@@ -26,4 +27,21 @@
 .banner-content-main {
   padding: 100px 0px;
   margin-left: 40px;
+}
+
+/* funny video section */
+.funny-video-section {
+  margin-left: 50px;
+  width: 100%;
+  margin-top: 50px;
+}
+.funny-video-section-card-container {
+  align-items: center;
+}
+.funny-video-card {
+  width: 90%;
+  text-align: center;
+}
+.funny-video-section-heading {
+  margin: 0px auto;
 }
