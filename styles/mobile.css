@@ -1,0 +1,71 @@
+/* nav style */
+.nav-section-container,
+.menu-section-container,
+.funny-video-section-card-container {
+  flex-direction: column;
+}
+.nav-section-container {
+  padding: 30px 130px;
+}
+.nav-section {
+  box-shadow: none;
+}
+.menu-section-container,
+.menu-follow-container {
+  margin-top: 3.5rem;
+  width: 262px;
+}
+.menu-section,
+.logo-section {
+  width: 100%;
+}
+
+/* .banner-section style */
+.banner-section {
+  flex-direction: column-reverse;
+}
+.banner-content-main,
+.banner-img {
+  width: 100%;
+}
+.goat-title {
+  font-size: 3rem;
+}
+.banner-content-main {
+  margin-left: 40px;
+  margin-top: 0px;
+}
+.banner-img {
+  margin-left: 110px;
+  margin-top: 78px;
+  margin-bottom: 0px;
+}
+.banner-content {
+  padding: 50px 0px;
+}
+.banner-title {
+  font-size: 1.5rem;
+}
+.banner-des p {
+  font-size: 1rem;
+}
+.banner-button {
+  padding: 10px 15px;
+  font-size: 13px;
+  margin-right: 15px;
+}
+.primary-btn {
+  padding: 10px 15px;
+  border-radius: 3rem;
+  font-size: 13px;
+}
+
+/* funny video section */
+.funny-video-section {
+  margin: 0px;
+}
+.funny-video-section-card-container {
+}
+.funny-video-section-heading {
+  margin: 0px auto;
+}

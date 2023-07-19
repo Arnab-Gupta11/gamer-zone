@@ -1,0 +1,29 @@
+/* nav style */
+.nav-section-container,
+.menu-section-container {
+  flex-direction: column;
+}
+.menu-section-container,
+.menu-follow-container {
+  margin-top: 3.5rem;
+  width: 262px;
+}
+.nav-section {
+  box-shadow: none;
+}
+
+/* banner-section style */
+.banner-section {
+  flex-direction: column-reverse;
+}
+.banner-content-main,
+.banner-img {
+  width: 100%;
+}
+.banner-img {
+  margin: 30px 140px;
+}
+.banner-content-main {
+  padding: 100px 0px;
+  margin-left: 40px;
+}
