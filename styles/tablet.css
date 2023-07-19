@@ -45,3 +45,26 @@
 .funny-video-section-heading {
   margin: 0px auto;
 }
+
+/* instant play section */
+
+.play-instantly-container {
+  flex-direction: column;
+}
+
+.play-instantly-content,
+.play-instantly-image {
+  width: 100%;
+}
+.play-instantly-content {
+  text-align: center;
+  margin-left: 130px;
+  margin-bottom: 0px;
+}
+.play-instantly-image {
+  margin-top: 0px;
+  margin-left: 130px;
+}
+.play-img {
+  margin-top: 0px;
+}
