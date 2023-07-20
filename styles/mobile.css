@@ -50,18 +50,9 @@
   font-size: 1rem;
 }
 .primary-btn {
-  padding: 10px 0px;
-  text-align: center;
-}
-/* .banner-button {
-  padding: 10px;
-  font-size: 13px;
-  margin-right: 15px;
-} */
-.primary-btn {
-  padding: 10px 15px;
+  padding: 20px 40px;
   border-radius: 3rem;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 /* funny video section */

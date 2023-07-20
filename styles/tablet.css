@@ -28,6 +28,11 @@
   padding: 100px 0px;
   margin-left: 40px;
 }
+.primary-btn {
+  padding: 20px 30px;
+  border-radius: 3rem;
+  font-size: 20px;
+}
 
 /* funny video section */
 .funny-video-section {
