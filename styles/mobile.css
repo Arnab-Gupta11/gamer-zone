@@ -92,6 +92,19 @@
 .play-img {
   margin-top: 0px;
 }
+.play-icon {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  color: white;
+  text-align: center;
+  display: none;
+}
+.play-icon-content {
+  font-size: 30px;
+  font-weight: bold;
+  color: #f948b2;
+}
 
 /* game type section */
 .game-type-container {
